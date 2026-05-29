@@ -331,31 +331,6 @@ Under the following conditions:
 - Proper attribution must be given to the author.
 - Derivative works must be shared under the same license.
 
-README.md の末尾を整えてください。
-
-作業内容：
-1. 現在の「■ link」「日本語版NOTE」を英語表記に修正してください。
-2. README.md の末尾に以下のセクションを追加してください。
-   - Short Citation
-   - Keywords
-   - Hashtags
-3. README.md を大きく上書きしないでください。
-4. 既存内容・注意書き・ライセンスは維持してください。
-
-追加内容：
-
-## Related Links
-
-Japanese original article:  
-https://note.com/inchacomusho/n/nbde84f343731
-
-## Short Citation
-
-Master.  
-Desert Regeneration and Food Production Through Organic Matter Circulation: A Nature-Complementary Framework for Humus Formation, Microbial Recovery, Water Circulation, Carbon Fixation, and Stepwise Vegetation Transition.  
-Published May 2026.  
-License: CC BY-SA 4.0.
-
 ## Keywords
 
 desert  
