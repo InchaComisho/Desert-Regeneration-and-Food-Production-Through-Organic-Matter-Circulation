@@ -394,9 +394,11 @@ In this model, the scenario "Technology Without Wisdom" produces a Civilization 
 | Scenario | Technology | Wisdom / Ethics | Outcome |
 |---|---|---|---|
 | 1. Baseline Degradation | None | Stagnant | Continuous decline |
-| 2. Technology Without Wisdom | Strong early rollout | Stagnant | Early gains, then collapse |
+| 2. Technology Without Wisdom | Strong early rollout | Stagnant | Initial gains, then decline in sustainability |
 | 3. Partial Transition | Moderate | Partial growth | Steady moderate improvement |
 | 4. Nature-Complementary Civilization | Systematic deployment | Co-evolves with technology | Highest long-term sustainability |
+
+> **Note:** All simulation outputs are hypothetical normalized indicators designed for conceptual exploration. They are not measured data, scientific proof, climate projections, agricultural forecasts, or policy recommendations. The Technology Without Wisdom scenario does not prove that technological systems inevitably fail; it conceptually illustrates that ecological technologies may lose sustainability when combined with overexploitation, weak governance, and insufficient ethical alignment.
 
 **Run:**
 

@@ -22,6 +22,8 @@ The simulation models four scenarios over a 75-year period (2026–2100) using h
 
 All values are hypothetical and normalized to [0.0, 1.0]. This is a conceptual simulation, not a scientific prediction.
 
+> **All simulation outputs are hypothetical normalized indicators designed for conceptual exploration. They are not measured data, scientific proof, climate projections, agricultural forecasts, or policy recommendations.**
+
 ---
 
 ## 1. Purpose
@@ -75,9 +77,9 @@ Why? Because:
 - Without long-term governance, the institutions that manage HRS/DGS systems underfund maintenance and monitoring after the initial momentum fades.
 - Overexploitation pressure — held at bay during the technology rollout — rebounds sharply and surpasses even the baseline level by year 2100 in this model.
 
-**The ecological gains are real. The civilizational transformation does not follow.**
+**In this hypothetical model, ecological indicators improve, but the Civilization Sustainability Index does not follow without wisdom co-development.**
 
-This is not a prediction. It is a structural hypothesis: ecological systems can recover, but if the human systems managing those ecological gains remain oriented toward short-term extraction and zero-sum competition, the recovery will not produce sustainable civilization.
+This is not a prediction or proof. It is a structural hypothesis encoded in the model's parameters: if the human systems managing ecological gains remain oriented toward short-term extraction and zero-sum competition, the simulation suggests that sustainability indicators may not improve significantly.
 
 ---
 
@@ -95,7 +97,7 @@ No intervention. Ecological degradation continues: soil loss, microbial decline,
 
 HRS, DGS, and related ecological technologies are deployed. Strong early gains result. However, human wisdom — ethical alignment, social cooperation, long-term governance, voluntary restraint — does not develop. Systems are managed for short-term benefit. Overexploitation rebounds sharply after initial reduction. Ecological gains erode under mismanagement after approximately year 2056 (model step 30). The Civilization Sustainability Index ends near the baseline level.
 
-**Conceptual message:** Technology without wisdom is temporarily effective and ultimately unstable. Advanced systems may be misused without a civilizational wisdom layer.
+**Conceptual message:** This scenario does not prove that technological systems inevitably fail. Rather, it conceptually illustrates that ecological technologies may lose sustainability when combined with short-term profit seeking, overexploitation, weak governance, low cooperation, and insufficient ethical alignment. Advanced systems may be misused without a civilizational wisdom layer.
 
 ---
 
@@ -164,7 +166,7 @@ Where:
 
 - Ecological recovery holds the largest single weight (35%) — it is necessary.
 - Wisdom and governance together hold 30% (ethics + cooperation + governance) — comparable in importance to ecological recovery.
-- Overexploitation subtracts 20% — growth without restraint collapses the index.
+- Overexploitation subtracts 20% — growth without restraint significantly reduces the index in this formula.
 - This means a scenario with perfect ecological recovery but zero ethical alignment and maximum overexploitation would still yield a low CSI.
 
 **Important note:** These weights are conceptual approximations. They are not empirically derived, peer-reviewed, or validated. They encode the author's structural hypothesis about what determines civilizational sustainability. Independent frameworks would produce different results.
@@ -188,7 +190,7 @@ Without these, even well-designed ecological systems are vulnerable to:
 
 - Overextraction of restored ecosystems before they stabilize
 - Privatization of restored commons for short-term profit
-- Collapse of maintenance funding after the initial momentum of deployment fades
+- Reduction or loss of maintenance funding after the initial momentum of deployment fades
 - Misuse of surplus food or water capacity to fuel further unsustainable expansion rather than stabilization
 
 ### The Wisdom Variable Cluster
@@ -262,7 +264,7 @@ The hypothetical year-2100 values from the simulation (not predictions):
 
 1. **Ecological variables in Scenario 2 end up lower than in Scenarios 3 and 4** despite a much stronger initial deployment. This reflects the mismanagement trajectory: over-extracted and underfunded systems degrade faster than gradually developed ones.
 
-2. **Overexploitation in Scenario 2 reaches the maximum** (1.0) by year 2100. This single factor suppresses the CSI regardless of ecological variable values, illustrating the structural claim: exploitation without restraint collapses sustainability.
+2. **Overexploitation in Scenario 2 reaches the maximum** (1.0) by year 2100 in this hypothetical model. This single factor suppresses the CSI regardless of ecological variable values, suggesting within this model that exploitation without restraint may significantly reduce sustainability indicators.
 
 3. **The Partial Transition (Scenario 3) produces meaningfully better ecological outcomes than Scenario 2**, despite a slower technology rollout, because wisdom variables co-develop and limit overexploitation. This suggests that the pace of technology rollout matters less than the alignment of human governance with ecological limits.
 

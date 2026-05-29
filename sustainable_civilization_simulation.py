@@ -97,8 +97,8 @@ def sustainability_index(s: dict) -> float:
     Design intent:
       - Ecological recovery is necessary (35%) but not sufficient alone.
       - Wisdom / ethics / governance contribute 30% combined (positive).
-      - Overexploitation subtracts 20%: growth without restraint collapses
-        the index even when ecological variables look healthy.
+      - Overexploitation subtracts 20%: growth without restraint significantly
+        reduces the index even when ecological variables appear healthy.
       - This encodes the premise: technology and ecology are conditions;
         civilizational quality is determined by human thought and governance.
 
@@ -229,7 +229,7 @@ def run_tech_no_wisdom() -> dict:
         else:
             s['infra'] = clamp(s['infra'] - 0.004 + n())
 
-        # Wisdom stagnates -- critical failure condition
+        # Wisdom stagnates -- key structural constraint in this model
         s['soc_coop'] = clamp(s['soc_coop'] + n() * 0.4)
         s['ethics']   = clamp(s['ethics']   + n() * 0.4)
         s['gov']      = clamp(s['gov']      + n() * 0.4)
@@ -386,9 +386,9 @@ ax.grid(True, alpha=0.3)
 
 # Key message annotation
 ax.annotate(
-    'Key message:\n'
-    '"Technology Without Wisdom" peaks then collapses (red dashed).\n'
-    'Sustainable civilization requires wisdom and technology to co-develop.',
+    'Conceptual observation (hypothetical model):\n'
+    '"Technology Without Wisdom" peaks then declines sharply (red dashed).\n'
+    'Co-development of wisdom and technology may support higher sustainability.',
     xy=(2062, 0.09), fontsize=8.5, color='#333333',
     bbox=dict(boxstyle='round,pad=0.4', facecolor='lightyellow', alpha=0.85))
 
@@ -570,10 +570,13 @@ print(SEP)
 print(' (*) Overexploitation Pressure: higher = worse (more pressure).')
 print('     All other variables: higher = better.')
 print()
-print(' KEY FINDING (conceptual):')
-print('   "Technology Without Wisdom" and "Baseline Degradation" end')
-print('   near the same low CSI range by 2100, despite strong early')
-print('   gains in Scenario 2. Sustainable civilization in this model')
-print('   requires ecological restoration AND civilizational wisdom')
-print('   to co-develop throughout the entire trajectory.')
+print(' CONCEPTUAL OBSERVATION (hypothetical model):')
+print('   In this model, "Technology Without Wisdom" and "Baseline Degradation"')
+print('   end near the same low CSI range by 2100, despite early gains in')
+print('   Scenario 2. This conceptually illustrates that ecological technologies')
+print('   may lose sustainability when combined with overexploitation, weak')
+print('   governance, and insufficient ethical alignment. It does not prove')
+print('   that technological systems inevitably fail. Co-development of')
+print('   ecological restoration and civilizational wisdom is the pathway')
+print('   that produces higher sustainability in this hypothetical model.')
 print(SEP)
