@@ -369,6 +369,48 @@ Under the following conditions:
 - [MODEL_LIMITATIONS.md](MODEL_LIMITATIONS.md) — Limitations, risks, and validation requirements.
 - [HRS_DGS_FRAMEWORK.md](HRS_DGS_FRAMEWORK.md) — Technical framework for HRS, DGS, and the Stepwise Food Transition Model.
 - [CONCEPTUAL_SYSTEM_DIAGRAM.md](CONCEPTUAL_SYSTEM_DIAGRAM.md) — System architecture, causal flow, feedback loops, and failure modes.
+- [SUSTAINABLE_CIVILIZATION_MODEL.md](SUSTAINABLE_CIVILIZATION_MODEL.md) — Conceptual model evaluating whether desert regeneration systems could contribute to sustainable civilization, emphasizing that technology alone is insufficient without ethical alignment, cooperation, and long-term governance.
+- [`sustainable_civilization_simulation.py`](sustainable_civilization_simulation.py) — Python conceptual simulation of ecological recovery, social wisdom, and civilization sustainability across four scenarios (2026–2100).
+
+---
+
+## Python Conceptual Simulation
+
+> ⚠️ **All values are hypothetical normalized indicators [0.0, 1.0].**  
+> This is a conceptual proof-of-concept, not a scientific prediction or policy prescription.  
+> See [SUSTAINABLE_CIVILIZATION_MODEL.md](SUSTAINABLE_CIVILIZATION_MODEL.md) for full explanation and limitations.
+
+### `sustainable_civilization_simulation.py`
+
+**Theme:** If the proposed desert regeneration system were implemented, could it contribute to building a sustainable civilization?
+
+**Core question encoded in the model:** Technology and ecological restoration are necessary — but are they sufficient?
+
+**Key finding (conceptual, hypothetical):**  
+In this model, the scenario "Technology Without Wisdom" produces a Civilization Sustainability Index nearly identical to the Baseline Degradation scenario by year 2100, despite strong early ecological gains. Sustainable civilization in this model requires ecological restoration and civilizational wisdom — ethical alignment, social cooperation, and long-term governance — to co-develop throughout the trajectory.
+
+**Four scenarios compared (2026–2100):**
+
+| Scenario | Technology | Wisdom / Ethics | Outcome |
+|---|---|---|---|
+| 1. Baseline Degradation | None | Stagnant | Continuous decline |
+| 2. Technology Without Wisdom | Strong early rollout | Stagnant | Early gains, then collapse |
+| 3. Partial Transition | Moderate | Partial growth | Steady moderate improvement |
+| 4. Nature-Complementary Civilization | Systematic deployment | Co-evolves with technology | Highest long-term sustainability |
+
+**Run:**
+
+```bash
+pip install -r requirements.txt
+python sustainable_civilization_simulation.py
+```
+
+**Output figures** (saved to `figures/`):
+
+- `sustainable_civilization_index.png` — Civilization Sustainability Index across four scenarios
+- `ecological_recovery_components.png` — Soil, microbial, water, vegetation, carbon, food variables
+- `social_wisdom_components.png` — Social cooperation, ethical alignment, governance, overexploitation
+- `technology_vs_wisdom_gap.png` — Gap between Technology Without Wisdom and Nature-Complementary
 
 ---
 
