@@ -364,6 +364,14 @@ Under the following conditions:
 
 ---
 
+## Supplementary Documents
+
+- [MODEL_LIMITATIONS.md](MODEL_LIMITATIONS.md) — Limitations, risks, and validation requirements.
+- [HRS_DGS_FRAMEWORK.md](HRS_DGS_FRAMEWORK.md) — Technical framework for HRS, DGS, and the Stepwise Food Transition Model.
+- [CONCEPTUAL_SYSTEM_DIAGRAM.md](CONCEPTUAL_SYSTEM_DIAGRAM.md) — System architecture, causal flow, feedback loops, and failure modes.
+
+---
+
 ## Keywords & Hashtags
 
 ### Keywords
