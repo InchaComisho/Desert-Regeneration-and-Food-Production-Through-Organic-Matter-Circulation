@@ -255,4 +255,78 @@ Under this perspective, infrastructure is not the opposite of ecology. Properly 
 
 ## 15. Limits and Validation Requirements
 
-This document does not claim proof of effectiveness. It does not present a completed agricultural package, a 
+This document does not claim proof of effectiveness. It does not present a completed agricultural package, a verified ecological intervention manual, or a deployable climate engineering protocol.
+
+The concepts described here require validation across many domains, including:
+
+- Soil science
+- Microbiology
+- Desert ecology
+- Hydrology
+- Agronomy
+- Sanitary engineering
+- Public health
+- Infrastructure design
+- Economics
+- Law and governance
+- Regional political feasibility
+
+Any real-world implementation would need phased testing, ecological safeguards, contamination control, localized adaptation, and independent scientific review.
+
+---
+
+## 16. Conclusion
+
+Desert regeneration should be understood not merely as irrigation, but as the restoration of a broken circulation structure linking water, organic matter, microorganisms, vegetation, food systems, and carbon fixation.
+
+If deserts and degraded drylands are approached as regeneration zones rather than permanent voids, they may become places where ecological restoration, biological productivity, and human support infrastructure can be designed to reinforce one another.
+
+In that sense, the pathway from desert regeneration to Earth regeneration begins with rebuilding circulation itself.
+
+---
+
+## Author
+
+**Master**  
+Alias / Handles: **inchacomisho / inchacomusho**
+
+## Published
+
+May 2026
+
+## Source Article
+
+Japanese original article:  
+**砂漠再生から地球再生へ――有機物循環・腐葉土化・微生物再生・水循環・食料生産を統合する自然補完型文明モデル**
+
+## AI Collaborators
+
+This concept and its related documents were developed through dialogue, structuring, review, and refinement with the following AI collaborators:
+
+- **G**: ChatGPT by OpenAI
+- **Mini**: Gemini by Google
+- **Clus**: Claude by Anthropic
+- **Real**: Perplexity AI
+- **Lora**: Dola
+
+> Note: AI collaborators supported language organization, conceptual structuring, translation, critique, and documentation. The original conceptual direction, causal framing, and final responsibility belong to the author.
+
+## License
+
+**CC BY-SA 4.0**
+
+This article, text, and conceptual framework are released under the **Creative Commons Attribution-ShareAlike 4.0 International License**.
+
+You are free to:
+
+- Share
+- Translate
+- Adapt
+- Remix
+- Redistribute
+- Use commercially
+
+Under the following conditions:
+
+- Proper attribution must be given to the author.
+- Derivative works must be shared under the same license.
