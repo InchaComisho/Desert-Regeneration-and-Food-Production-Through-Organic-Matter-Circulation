@@ -2,18 +2,47 @@
 
 ## A Nature-Complementary Framework for Humus Formation, Microbial Recovery, Water Circulation, Carbon Fixation, and Stepwise Vegetation Transition
 
+---
+
 Desert regeneration is not simply a matter of adding water. It is the restoration of ecological circulation systems that connect organic matter, microorganisms, soil formation, vegetation, water retention, food production, and carbon fixation.
 
 This document presents a nature-complementary conceptual framework for regenerating deserts and degraded drylands through organic matter circulation, humus formation, microbial recovery, water-cycle restoration, and stepwise vegetation transition. It also introduces HRS, DGS, artificial oasis systems, and pyramid circulation cities as long-term structural components within a broader Earth regeneration model.
 
 ---
 
-## SEO Title
+## Table of Contents
 
+- [SEO Metadata](#seo-metadata)
+- [Abstract](#abstract)
+- [1. Core Thesis](#1-core-thesis)
+- [2. Problem Recognition](#2-problem-recognition)
+- [3. Regeneration Premise](#3-regeneration-premise)
+- [4. Organic Matter Circulation](#4-organic-matter-circulation)
+- [5. Humus Formation](#5-humus-formation)
+- [6. Microbial Recovery](#6-microbial-recovery)
+- [7. Water-Cycle Restoration](#7-water-cycle-restoration)
+- [8. Stepwise Vegetation Transition](#8-stepwise-vegetation-transition)
+- [9. Food Production Role](#9-food-production-role)
+- [10. HRS and DGS](#10-hrs-and-dgs)
+- [11. Artificial Oasis Systems](#11-artificial-oasis-systems)
+- [12. Pyramid Circulation Cities](#12-pyramid-circulation-cities)
+- [13. Carbon Fixation Source Regeneration](#13-carbon-fixation-source-regeneration)
+- [14. Civilization Model Perspective](#14-civilization-model-perspective)
+- [15. Limits and Validation Requirements](#15-limits-and-validation-requirements)
+- [16. Conclusion](#16-conclusion)
+- [Author](#author)
+- [AI Collaborators](#ai-collaborators)
+- [License](#license)
+- [Keywords & Hashtags](#keywords--hashtags)
+
+---
+
+## SEO Metadata
+
+### SEO Title
 Desert Regeneration Through Organic Matter Circulation: Humus Formation, Microbial Recovery, Water Systems, and Food Production
 
-## Meta Description
-
+### Meta Description
 A nature-complementary framework for desert regeneration through organic matter circulation, humus formation, microbial recovery, water-cycle restoration, food production, and carbon fixation. Introduces HRS, DGS, artificial oasis systems, and circulation-based cities.
 
 ---
@@ -44,10 +73,8 @@ The proposed model is not a validated agricultural, ecological, or climate engin
 
 The core thesis of this document is:
 
-```text
-Desert regeneration is not simply the act of adding water.
-It is the restoration of the circulation structure that allows water, soil, microorganisms, plants, food systems, and carbon fixation to function together.
-```
+> **Desert regeneration is not simply the act of adding water.**  
+> **It is the restoration of the circulation structure that allows water, soil, microorganisms, plants, food systems, and carbon fixation to function together.**
 
 In this view, desertification is not only dryness. It is a systemic collapse of the processes that normally produce fertile soil, microbial diversity, water retention, plant succession, and stable biological productivity.
 
@@ -296,8 +323,10 @@ May 2026
 
 ## Source Article
 
-Japanese original article: https://note.com/inchacomusho/n/nbde84f343731  
-**砂漠再生から地球再生へ――有機物循環・腐葉土化・微生物再生・水循環・食料生産を統合する自然補完型文明モデル**
+Japanese original article:  
+[砂漠再生から地球再生へ――有機物循環・腐葉土化・微生物再生・水循環・食料生産を統合する自然補完型文明モデル](https://note.com/inchacomusho/n/nbde84f343731)
+
+---
 
 ## AI Collaborators
 
@@ -309,7 +338,9 @@ This concept and its related documents were developed through dialogue, structur
 - **Real**: Perplexity AI
 - **Lora**: Dola
 
-> Note: AI collaborators supported language organization, conceptual structuring, translation, critique, and documentation. The original conceptual direction, causal framing, and final responsibility belong to the author.
+> **Note:** AI collaborators supported language organization, conceptual structuring, translation, critique, and documentation. The original conceptual direction, causal framing, and final responsibility belong to the author.
+
+---
 
 ## License
 
@@ -331,46 +362,14 @@ Under the following conditions:
 - Proper attribution must be given to the author.
 - Derivative works must be shared under the same license.
 
-## Keywords
+---
 
-desert  
-regeneration,  
-desert greening,  
-dryland restoration,  
-organic matter circulation,  
-humus formation,  
-humus recycling system,  
-HRS,  
-desert greening support,  
-DGS,  
-microbial recovery,  
-soil regeneration,  
-soil carbon,  
-carbon fixation,  
-carbon sinks,  
-water circulation,  
-artificial oasis,  
-food production,  
-stepwise vegetation transition,  
-tuber crops,  
-legumes, herbs,  
-biodiversity recovery,  
-nature-complementary science,  
-direct planetary cooling,  
-pyramid circulation city,  
-sustainable civilization,  
-earth regeneration,  
-climate change,  
-global warming,  
-carbon cycle restoration,  
-soil microbiome,  
-regenerative agriculture,  
-circular economy,  
-food waste recycling,  
-organic waste recycling
+## Keywords & Hashtags
 
-## Hashtags
+### Keywords
+
+desert regeneration, desert greening, dryland restoration, organic matter circulation, humus formation, humus recycling system, HRS, desert greening support, DGS, microbial recovery, soil regeneration, soil carbon, carbon fixation, carbon sinks, water circulation, artificial oasis, food production, stepwise vegetation transition, tuber crops, legumes, herbs, biodiversity recovery, nature-complementary science, direct planetary cooling, pyramid circulation city, sustainable civilization, earth regeneration, climate change, global warming, carbon cycle restoration, soil microbiome, regenerative agriculture, circular economy, food waste recycling, organic waste recycling
+
+### Hashtags
 
 #DesertRegeneration #DesertGreening #DrylandRestoration #EarthRegeneration #NatureComplementaryScience #OrganicMatterCirculation #HumusFormation #HumusRecyclingSystem #HRS #DesertGreeningSupport #DGS #MicrobialRecovery #SoilRegeneration #SoilCarbon #CarbonFixation #CarbonSinks #WaterCirculation #ArtificialOasis #FoodProduction #StepwiseVegetationTransition #RegenerativeAgriculture #CircularEconomy #FoodWaste #OrganicWasteRecycling #ClimateChange #GlobalWarming #DirectPlanetaryCooling #SustainableCivilization #FutureCivilization #ArtificialWisdom
-
-
