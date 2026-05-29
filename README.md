@@ -331,6 +331,73 @@ Under the following conditions:
 - Proper attribution must be given to the author.
 - Derivative works must be shared under the same license.
 
+README.md の末尾を整えてください。
+
+作業内容：
+1. 現在の「■ link」「日本語版NOTE」を英語表記に修正してください。
+2. README.md の末尾に以下のセクションを追加してください。
+   - Short Citation
+   - Keywords
+   - Hashtags
+3. README.md を大きく上書きしないでください。
+4. 既存内容・注意書き・ライセンスは維持してください。
+
+追加内容：
+
+## Related Links
+
+Japanese original article:  
+https://note.com/inchacomusho/n/nbde84f343731
+
+## Short Citation
+
+Master.  
+Desert Regeneration and Food Production Through Organic Matter Circulation: A Nature-Complementary Framework for Humus Formation, Microbial Recovery, Water Circulation, Carbon Fixation, and Stepwise Vegetation Transition.  
+Published May 2026.  
+License: CC BY-SA 4.0.
+
+## Keywords
+
+desert  
+regeneration,  
+desert greening,  
+dryland restoration,  
+organic matter circulation,  
+humus formation,  
+humus recycling system,  
+HRS,  
+desert greening support,  
+DGS,  
+microbial recovery,  
+soil regeneration,  
+soil carbon,  
+carbon fixation,  
+carbon sinks,  
+water circulation,  
+artificial oasis,  
+food production,  
+stepwise vegetation transition,  
+tuber crops,  
+legumes, herbs,  
+biodiversity recovery,  
+nature-complementary science,  
+direct planetary cooling,  
+pyramid circulation city,  
+sustainable civilization,  
+earth regeneration,  
+climate change,  
+global warming,  
+carbon cycle restoration,  
+soil microbiome,  
+regenerative agriculture,  
+circular economy,  
+food waste recycling,  
+organic waste recycling
+
+## Hashtags
+
+#DesertRegeneration #DesertGreening #DrylandRestoration #EarthRegeneration #NatureComplementaryScience #OrganicMatterCirculation #HumusFormation #HumusRecyclingSystem #HRS #DesertGreeningSupport #DGS #MicrobialRecovery #SoilRegeneration #SoilCarbon #CarbonFixation #CarbonSinks #WaterCirculation #ArtificialOasis #FoodProduction #StepwiseVegetationTransition #RegenerativeAgriculture #CircularEconomy #FoodWaste #OrganicWasteRecycling #ClimateChange #GlobalWarming #DirectPlanetaryCooling #SustainableCivilization #FutureCivilization #ArtificialWisdom
+
 
 ## Related Links
 
