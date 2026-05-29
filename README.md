@@ -330,3 +330,8 @@ Under the following conditions:
 
 - Proper attribution must be given to the author.
 - Derivative works must be shared under the same license.
+
+
+■ link
+日本語版NOTE
+https://note.com/inchacomusho/n/nbde84f343731
