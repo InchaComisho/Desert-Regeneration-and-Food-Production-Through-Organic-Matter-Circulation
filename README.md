@@ -296,7 +296,7 @@ May 2026
 
 ## Source Article
 
-Japanese original article:  
+Japanese original article: https://note.com/inchacomusho/n/nbde84f343731
 **砂漠再生から地球再生へ――有機物循環・腐葉土化・微生物再生・水循環・食料生産を統合する自然補完型文明モデル**
 
 ## AI Collaborators
@@ -374,7 +374,3 @@ organic waste recycling
 #DesertRegeneration #DesertGreening #DrylandRestoration #EarthRegeneration #NatureComplementaryScience #OrganicMatterCirculation #HumusFormation #HumusRecyclingSystem #HRS #DesertGreeningSupport #DGS #MicrobialRecovery #SoilRegeneration #SoilCarbon #CarbonFixation #CarbonSinks #WaterCirculation #ArtificialOasis #FoodProduction #StepwiseVegetationTransition #RegenerativeAgriculture #CircularEconomy #FoodWaste #OrganicWasteRecycling #ClimateChange #GlobalWarming #DirectPlanetaryCooling #SustainableCivilization #FutureCivilization #ArtificialWisdom
 
 
-## Related Links
-
-Japanese original article:  
-https://note.com/inchacomusho/n/nbde84f343731
