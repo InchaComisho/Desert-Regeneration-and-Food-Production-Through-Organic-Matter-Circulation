@@ -332,6 +332,7 @@ Under the following conditions:
 - Derivative works must be shared under the same license.
 
 
-■ link
-日本語版NOTE
+## Related Links
+
+Japanese original article:  
 https://note.com/inchacomusho/n/nbde84f343731
