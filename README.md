@@ -336,7 +336,7 @@ This concept and its related documents were developed through dialogue, structur
 - **Mini**: Gemini by Google
 - **Clus**: Claude by Anthropic
 - **Real**: Perplexity AI
-- **Lora**: Dola
+- **Lola**: Dola
 
 > **Note:** AI collaborators supported language organization, conceptual structuring, translation, critique, and documentation. The original conceptual direction, causal framing, and final responsibility belong to the author.
 
