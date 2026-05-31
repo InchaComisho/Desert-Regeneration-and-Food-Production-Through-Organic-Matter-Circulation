@@ -416,6 +416,37 @@ python sustainable_civilization_simulation.py
 
 ---
 
+## Related Climate Framework: Land-Based Carbon Sink Regeneration
+
+This repository presents desert regeneration and food production through organic matter circulation as a proposed land-based implementation pathway for carbon sink regeneration.
+
+In the broader climate framework, desertified land, degraded soils, weakened microbial ecosystems, and disrupted organic matter cycles can be understood as part of the decline of Earth's carbon fixation capacity.
+
+This project connects desert regeneration to:
+
+- humus formation
+- organic waste circulation
+- soil microbial recovery
+- water retention improvement
+- vegetation transition
+- food production support
+- carbon fixation capacity recovery
+- ecological resilience rebuilding
+
+It should not be understood as a standalone or fully validated solution to global warming. Instead, it is proposed as one component of a broader integrated strategy that also includes emissions reduction, carbon sink regeneration, ocean and plankton recovery, water-cycle restoration, Direct Planetary Cooling, and Natural Complementary Science.
+
+Related repositories:
+
+- [The Real Cause of Global Warming: Not Only CO₂ Emissions, but the Collapse of Carbon Fixation Systems](https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-Not-Only-CO-Emissions-but-the-Collapse-of-Carbon-Fixation-Systems)
+- [Why Decarbonization Alone Cannot Stop Global Warming](https://github.com/InchaComisho/Why-Decarbonization-Alone-Cannot-Stop-Global-Warming)
+- [Direct Planetary Cooling](https://github.com/InchaComisho/The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling)
+- [Natural Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science)
+
+**Validation note:**
+This repository presents a conceptual framework and proposed implementation pathway. It is not a validated agricultural protocol, climate model, terraforming method, or policy prescription. Field testing, soil science validation, ecological monitoring, water-resource assessment, biosecurity review, and community-level governance are required.
+
+---
+
 ## Keywords & Hashtags
 
 ### Keywords
