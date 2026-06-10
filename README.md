@@ -441,6 +441,8 @@ Related repositories:
 - [Why Decarbonization Alone Cannot Stop Global Warming](https://github.com/InchaComisho/Why-Decarbonization-Alone-Cannot-Stop-Global-Warming)
 - [Direct Planetary Cooling](https://github.com/InchaComisho/The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling)
 - [Natural Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science)
+- [From Abandoned Sugi Plantations to Regenerative Forest Assets](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README.md)
+- [Original NOTE article: 放置杉林を負債から循環資産へ](https://note.com/inchacomusho/n/nfa9e2b639c06)
 - [Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md)
 
 **Validation note:**
@@ -452,7 +454,7 @@ This repository presents a conceptual framework and proposed implementation path
 
 ### Keywords
 
-desert regeneration, desert greening, dryland restoration, organic matter circulation, humus formation, humus recycling system, HRS, desert greening support, DGS, microbial recovery, soil regeneration, soil carbon, carbon fixation, carbon sinks, water circulation, artificial oasis, food production, stepwise vegetation transition, tuber crops, legumes, herbs, biodiversity recovery, habitat degradation, ecological displacement, human-wildlife conflict, forest restoration, animal coexistence, nature-complementary science, direct planetary cooling, pyramid circulation city, sustainable civilization, earth regeneration, climate change, global warming, carbon cycle restoration, soil microbiome, regenerative agriculture, circular economy, food waste recycling, organic waste recycling
+desert regeneration, desert greening, dryland restoration, organic matter circulation, humus formation, humus recycling system, HRS, desert greening support, DGS, microbial recovery, soil regeneration, soil carbon, carbon fixation, carbon sinks, water circulation, artificial oasis, food production, stepwise vegetation transition, tuber crops, legumes, herbs, biodiversity recovery, habitat degradation, ecological displacement, human-wildlife conflict, forest restoration, abandoned forest, abandoned sugi plantation, forest liability, regenerative forest assets, sawdust, wood chips, mushroom substrate, animal coexistence, nature-complementary science, direct planetary cooling, pyramid circulation city, sustainable civilization, earth regeneration, climate change, global warming, carbon cycle restoration, soil microbiome, regenerative agriculture, circular economy, food waste recycling, organic waste recycling
 
 ### Hashtags
 
