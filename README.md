@@ -441,6 +441,7 @@ Related repositories:
 - [Why Decarbonization Alone Cannot Stop Global Warming](https://github.com/InchaComisho/Why-Decarbonization-Alone-Cannot-Stop-Global-Warming)
 - [Direct Planetary Cooling](https://github.com/InchaComisho/The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling)
 - [Natural Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science)
+- [Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md)
 
 **Validation note:**
 This repository presents a conceptual framework and proposed implementation pathway. It is not a validated agricultural protocol, climate model, terraforming method, or policy prescription. Field testing, soil science validation, ecological monitoring, water-resource assessment, biosecurity review, and community-level governance are required.
@@ -451,7 +452,7 @@ This repository presents a conceptual framework and proposed implementation path
 
 ### Keywords
 
-desert regeneration, desert greening, dryland restoration, organic matter circulation, humus formation, humus recycling system, HRS, desert greening support, DGS, microbial recovery, soil regeneration, soil carbon, carbon fixation, carbon sinks, water circulation, artificial oasis, food production, stepwise vegetation transition, tuber crops, legumes, herbs, biodiversity recovery, nature-complementary science, direct planetary cooling, pyramid circulation city, sustainable civilization, earth regeneration, climate change, global warming, carbon cycle restoration, soil microbiome, regenerative agriculture, circular economy, food waste recycling, organic waste recycling
+desert regeneration, desert greening, dryland restoration, organic matter circulation, humus formation, humus recycling system, HRS, desert greening support, DGS, microbial recovery, soil regeneration, soil carbon, carbon fixation, carbon sinks, water circulation, artificial oasis, food production, stepwise vegetation transition, tuber crops, legumes, herbs, biodiversity recovery, habitat degradation, ecological displacement, human-wildlife conflict, forest restoration, animal coexistence, nature-complementary science, direct planetary cooling, pyramid circulation city, sustainable civilization, earth regeneration, climate change, global warming, carbon cycle restoration, soil microbiome, regenerative agriculture, circular economy, food waste recycling, organic waste recycling
 
 ### Hashtags
 
