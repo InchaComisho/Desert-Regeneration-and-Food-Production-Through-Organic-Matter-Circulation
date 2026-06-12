@@ -611,19 +611,28 @@ CC BY-SA 4.0
 
 ---
 
-## 補足資料
+## Supplementary Documents / 補足資料 / الوثائق التكميلية
+
+英語版の補足文書は、該当する場合に主要な技術的参照元として残されている。日本語版およびアラビア語版は、読者が内容へアクセスしやすくするための翻訳または要約である。
 
 * [MODEL_LIMITATIONS.md](MODEL_LIMITATIONS.md)  
   限界、リスク、検証要件。
+  * Japanese version: [MODEL_LIMITATIONS_ja.md](MODEL_LIMITATIONS_ja.md)
+  * Arabic version: [MODEL_LIMITATIONS_ar.md](MODEL_LIMITATIONS_ar.md)
 
 * [HRS_DGS_FRAMEWORK.md](HRS_DGS_FRAMEWORK.md)  
   HRS、DGS、段階的食料遷移モデルの技術的フレームワーク。
+  * Japanese version: [HRS_DGS_FRAMEWORK_ja.md](HRS_DGS_FRAMEWORK_ja.md)
+  * Arabic version: [HRS_DGS_FRAMEWORK_ar.md](HRS_DGS_FRAMEWORK_ar.md)
 
 * [CONCEPTUAL_SYSTEM_DIAGRAM.md](CONCEPTUAL_SYSTEM_DIAGRAM.md)  
   システム構造、因果フロー、フィードバックループ、失敗モード。
+  * Japanese summary: [CONCEPTUAL_SYSTEM_DIAGRAM_ja_summary.md](CONCEPTUAL_SYSTEM_DIAGRAM_ja_summary.md)
+  * Arabic summary: [CONCEPTUAL_SYSTEM_DIAGRAM_ar_summary.md](CONCEPTUAL_SYSTEM_DIAGRAM_ar_summary.md)
 
 * [SUSTAINABLE_CIVILIZATION_MODEL.md](SUSTAINABLE_CIVILIZATION_MODEL.md)  
   砂漠再生システムが持続可能文明に寄与し得るかを検討する概念モデル。技術だけでは不十分であり、倫理、協力、長期統治が必要であることを扱う。
+  * Japanese version: [SUSTAINABLE_CIVILIZATION_MODEL_ja.md](SUSTAINABLE_CIVILIZATION_MODEL_ja.md)
 
 * [sustainable_civilization_simulation.py](sustainable_civilization_simulation.py)  
   2026年から2100年までの生態回復、社会的叡智、文明持続性を仮想指標で比較するPython概念シミュレーション。

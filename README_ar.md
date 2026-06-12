@@ -622,19 +622,28 @@ Creative Commons Attribution-ShareAlike 4.0 International License
 
 ---
 
-## المواد التكميلية
+## Supplementary Documents / 補足資料 / الوثائق التكميلية
+
+تبقى الوثائق الإنجليزية الأصلية مرجعاً تقنياً أساسياً حيثما ينطبق ذلك. وتوفر النسخ العربية واليابانية ترجمات أو ملخصات لتسهيل القراءة متعددة اللغات.
 
 * [MODEL_LIMITATIONS.md](MODEL_LIMITATIONS.md)  
   القيود، والمخاطر، ومتطلبات التحقق.
+  * Arabic version: [MODEL_LIMITATIONS_ar.md](MODEL_LIMITATIONS_ar.md)
+  * Japanese version: [MODEL_LIMITATIONS_ja.md](MODEL_LIMITATIONS_ja.md)
 
 * [HRS_DGS_FRAMEWORK.md](HRS_DGS_FRAMEWORK.md)  
   إطار تقني لنظام HRS، ونظام DGS، ونموذج التدرج الغذائي المرحلي.
+  * Arabic version: [HRS_DGS_FRAMEWORK_ar.md](HRS_DGS_FRAMEWORK_ar.md)
+  * Japanese version: [HRS_DGS_FRAMEWORK_ja.md](HRS_DGS_FRAMEWORK_ja.md)
 
 * [CONCEPTUAL_SYSTEM_DIAGRAM.md](CONCEPTUAL_SYSTEM_DIAGRAM.md)  
   بنية النظام، وتدفقات السببية، وحلقات التغذية الراجعة، وأنماط الفشل.
+  * Arabic summary: [CONCEPTUAL_SYSTEM_DIAGRAM_ar_summary.md](CONCEPTUAL_SYSTEM_DIAGRAM_ar_summary.md)
+  * Japanese summary: [CONCEPTUAL_SYSTEM_DIAGRAM_ja_summary.md](CONCEPTUAL_SYSTEM_DIAGRAM_ja_summary.md)
 
 * [SUSTAINABLE_CIVILIZATION_MODEL.md](SUSTAINABLE_CIVILIZATION_MODEL.md)  
   نموذج مفاهيمي يناقش ما إذا كان نظام استصلاح الصحراء يمكن أن يساهم في حضارة مستدامة. يوضح أن التقنية وحدها لا تكفي، وأن الأخلاق، والتعاون، والحكم طويل الأمد ضرورية.
+  * Japanese version: [SUSTAINABLE_CIVILIZATION_MODEL_ja.md](SUSTAINABLE_CIVILIZATION_MODEL_ja.md)
 
 * [sustainable_civilization_simulation.py](sustainable_civilization_simulation.py)  
   محاكاة مفاهيمية بلغة Python تقارن بين مؤشرات افتراضية للاستعادة البيئية، والحكمة الاجتماعية، واستدامة الحضارة من عام 2026 إلى عام 2100.

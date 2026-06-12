@@ -373,12 +373,19 @@ Under the following conditions:
 
 ---
 
-## Supplementary Documents
+## Supplementary Documents / 補足資料 / الوثائق التكميلية
 
 - [MODEL_LIMITATIONS.md](MODEL_LIMITATIONS.md) — Limitations, risks, and validation requirements.
+  - Japanese version: [MODEL_LIMITATIONS_ja.md](MODEL_LIMITATIONS_ja.md)
+  - Arabic version: [MODEL_LIMITATIONS_ar.md](MODEL_LIMITATIONS_ar.md)
 - [HRS_DGS_FRAMEWORK.md](HRS_DGS_FRAMEWORK.md) — Technical framework for HRS, DGS, and the Stepwise Food Transition Model.
+  - Japanese version: [HRS_DGS_FRAMEWORK_ja.md](HRS_DGS_FRAMEWORK_ja.md)
+  - Arabic version: [HRS_DGS_FRAMEWORK_ar.md](HRS_DGS_FRAMEWORK_ar.md)
 - [CONCEPTUAL_SYSTEM_DIAGRAM.md](CONCEPTUAL_SYSTEM_DIAGRAM.md) — System architecture, causal flow, feedback loops, and failure modes.
+  - Japanese summary: [CONCEPTUAL_SYSTEM_DIAGRAM_ja_summary.md](CONCEPTUAL_SYSTEM_DIAGRAM_ja_summary.md)
+  - Arabic summary: [CONCEPTUAL_SYSTEM_DIAGRAM_ar_summary.md](CONCEPTUAL_SYSTEM_DIAGRAM_ar_summary.md)
 - [SUSTAINABLE_CIVILIZATION_MODEL.md](SUSTAINABLE_CIVILIZATION_MODEL.md) — Conceptual model evaluating whether desert regeneration systems could contribute to sustainable civilization, emphasizing that technology alone is insufficient without ethical alignment, cooperation, and long-term governance.
+  - Japanese version: [SUSTAINABLE_CIVILIZATION_MODEL_ja.md](SUSTAINABLE_CIVILIZATION_MODEL_ja.md)
 - [`sustainable_civilization_simulation.py`](sustainable_civilization_simulation.py) — Python conceptual simulation of ecological recovery, social wisdom, and civilization sustainability across four scenarios (2026–2100).
 
 ---
