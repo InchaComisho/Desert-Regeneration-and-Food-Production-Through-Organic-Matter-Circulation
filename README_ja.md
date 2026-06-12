@@ -2,6 +2,8 @@
 
 ## 腐葉土化・微生物再生・水循環・炭素固定・段階的植生遷移を統合する自然補完型文明モデル
 
+[English](README.md) | [日本語](README_ja.md) | [العربية](README_ar.md)
+
 ---
 
 ## 概要
@@ -563,6 +565,12 @@ Alias / Handles: inchacomisho / inchacomusho
 ## English Version
 
 [English README](README.md)
+
+---
+
+## Arabic Version
+
+[Arabic README](README_ar.md)
 
 ---
 

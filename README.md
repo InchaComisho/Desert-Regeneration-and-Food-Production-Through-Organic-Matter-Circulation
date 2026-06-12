@@ -2,6 +2,8 @@
 
 ## A Nature-Complementary Framework for Humus Formation, Microbial Recovery, Water Circulation, Carbon Fixation, and Stepwise Vegetation Transition
 
+[English](README.md) | [日本語](README_ja.md) | [العربية](README_ar.md)
+
 ---
 
 Desert regeneration is not simply a matter of adding water. It is the restoration of ecological circulation systems that connect organic matter, microorganisms, soil formation, vegetation, water retention, food production, and carbon fixation.
@@ -325,6 +327,13 @@ May 2026
 
 Japanese original article:  
 [砂漠再生から地球再生へ――有機物循環・腐葉土化・微生物再生・水循環・食料生産を統合する自然補完型文明モデル](https://note.com/inchacomusho/n/nbde84f343731)
+
+---
+
+## Other Versions
+
+- [Japanese README](README_ja.md)
+- [Arabic README](README_ar.md)
 
 ---
 
