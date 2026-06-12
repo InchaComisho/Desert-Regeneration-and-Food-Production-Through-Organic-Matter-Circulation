@@ -576,6 +576,17 @@ Alias / Handles: inchacomisho / inchacomusho
 
 ---
 
+## مقالات NOTE الأصلية
+
+المقالات التالية هي مصادر مفاهيمية يابانية مبكرة ساهمت في تكوين هذا المستودع.  
+ينبغي فهمها كمواد أصلية للفكرة، وليست كأدلة علمية محكمة.
+
+- [المفهوم الأولي: تخضير الصحراء، إنتاج الغذاء، النمو السكاني، قضايا اللاجئين، وإنشاء بيئات جديدة صالحة للسكن](https://note.com/inchacomusho/n/n0ce549cb6fa3)
+- [استكمال المفهوم الأولي حول تخضير الصحراء وإنتاج الغذاء](https://note.com/inchacomusho/n/n92ba2352cb26)
+- [تأملات حول الصحارى الرملية الخالصة مثل الصحراء الكبرى](https://note.com/inchacomusho/n/nd5e1f53816f4)
+
+---
+
 ## النسخ الأخرى
 
 * [English README](README.md)
@@ -744,6 +755,8 @@ python sustainable_civilization_simulation.py
 * [放置杉林を負債から資産へ──果樹・山菜・キノコ・腐葉土で森を再生する方法](https://note.com/inchacomusho/n/nfa9e2b639c06)
 
 * [Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md)
+
+* [نظام المدينة والحضارة OS: إطار بنية تحتية دائرية للمدن المتكاملة مع الطبيعة](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ar.md)
 
 ---
 

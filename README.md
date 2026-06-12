@@ -330,6 +330,16 @@ Japanese original article:
 
 ---
 
+## Historical Source Articles
+
+The following NOTE articles are early Japanese concept sources that preceded and informed this repository. They should be understood as conceptual origin materials, not as peer-reviewed scientific evidence.
+
+- [Initial concept: desert greening, food production, population growth, refugee issues, and new habitable environments](https://note.com/inchacomusho/n/n0ce549cb6fa3)
+- [Continuation of the initial desert greening and food production concept](https://note.com/inchacomusho/n/n92ba2352cb26)
+- [Considerations on sand-only deserts such as the Sahara Desert](https://note.com/inchacomusho/n/nd5e1f53816f4)
+
+---
+
 ## Other Versions
 
 - [Japanese README](README_ja.md)
@@ -460,6 +470,7 @@ Related repositories:
 - [From Abandoned Sugi Plantations to Regenerative Forest Assets](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README.md)
 - [Original NOTE article: 放置杉林を負債から循環資産へ](https://note.com/inchacomusho/n/nfa9e2b639c06)
 - [Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md)
+- [Urban–Civilization OS: A Circular Infrastructure Framework for Nature-Integrated Cities](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README.md)
 
 **Validation note:**
 This repository presents a conceptual framework and proposed implementation pathway. It is not a validated agricultural protocol, climate model, terraforming method, or policy prescription. Field testing, soil science validation, ecological monitoring, water-resource assessment, biosecurity review, and community-level governance are required.

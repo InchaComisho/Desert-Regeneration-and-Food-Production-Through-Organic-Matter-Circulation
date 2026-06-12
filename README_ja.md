@@ -562,6 +562,17 @@ Alias / Handles: inchacomisho / inchacomusho
 
 ---
 
+## 源流となるNOTE記事
+
+以下の記事は、本リポジトリの構想につながる初期の日本語NOTE記事である。  
+これらは査読済み科学論文ではなく、砂漠再生・食料生産・人工オアシス・循環型居住構想の源流資料として位置づける。
+
+- [砂漠の緑地化から食料問題、人口増加問題、難民問題、新たな人類の住める環境を作り出すなどさまざまな問題を少しのアイデアで解決可能](https://note.com/inchacomusho/n/n0ce549cb6fa3)
+- [以前の砂漠の緑地化から食料問題、人口増加問題、難民問題、新たな人類の住める環境を作り出すなどさまざまな問題を少しのアイデアで解決可能の続き](https://note.com/inchacomusho/n/n92ba2352cb26)
+- [サハラ砂漠など砂のみの砂漠についての考察](https://note.com/inchacomusho/n/nd5e1f53816f4)
+
+---
+
 ## English Version
 
 [English README](README.md)
@@ -733,6 +744,8 @@ python sustainable_civilization_simulation.py
 * [放置杉林を負債から資産へ──果樹・山菜・キノコ・腐葉土で森を再生する方法](https://note.com/inchacomusho/n/nfa9e2b639c06)
 
 * [Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md)
+
+* [都市・文明OS：自然統合型都市のための循環インフラ・フレームワーク](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md)
 
 ---
 
