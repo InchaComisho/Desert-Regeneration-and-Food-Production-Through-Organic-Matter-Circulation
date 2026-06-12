@@ -758,6 +758,10 @@ python sustainable_civilization_simulation.py
 
 * [نظام المدينة والحضارة OS: إطار بنية تحتية دائرية للمدن المتكاملة مع الطبيعة](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ar.md)
 
+* [Circular City Concept](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README.md)
+* [日本語版 README：循環都市構想](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README_ja.md)
+* [NOTE記事：循環都市構想](https://note.com/inchacomusho/n/n734d7e7da6ce)
+
 ---
 
 ## ملاحظات التحقق

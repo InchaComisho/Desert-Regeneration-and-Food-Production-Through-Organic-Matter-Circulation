@@ -471,6 +471,9 @@ Related repositories:
 - [Original NOTE article: 放置杉林を負債から循環資産へ](https://note.com/inchacomusho/n/nfa9e2b639c06)
 - [Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md)
 - [Urban–Civilization OS: A Circular Infrastructure Framework for Nature-Integrated Cities](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README.md)
+- [Circular City Concept](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README.md)
+- [Japanese README: 循環都市構想](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README_ja.md)
+- [Original NOTE article: 循環都市構想](https://note.com/inchacomusho/n/n734d7e7da6ce)
 
 **Validation note:**
 This repository presents a conceptual framework and proposed implementation pathway. It is not a validated agricultural protocol, climate model, terraforming method, or policy prescription. Field testing, soil science validation, ecological monitoring, water-resource assessment, biosecurity review, and community-level governance are required.
