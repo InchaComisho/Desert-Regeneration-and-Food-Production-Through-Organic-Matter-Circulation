@@ -605,19 +605,19 @@ CC BY-SA 4.0
 
 ## 補足資料
 
-* [MODEL_LIMITATIONS.md](MODEL_LIMITATIONS.md)
+* [MODEL_LIMITATIONS.md](MODEL_LIMITATIONS.md)  
   限界、リスク、検証要件。
 
-* [HRS_DGS_FRAMEWORK.md](HRS_DGS_FRAMEWORK.md)
+* [HRS_DGS_FRAMEWORK.md](HRS_DGS_FRAMEWORK.md)  
   HRS、DGS、段階的食料遷移モデルの技術的フレームワーク。
 
-* [CONCEPTUAL_SYSTEM_DIAGRAM.md](CONCEPTUAL_SYSTEM_DIAGRAM.md)
+* [CONCEPTUAL_SYSTEM_DIAGRAM.md](CONCEPTUAL_SYSTEM_DIAGRAM.md)  
   システム構造、因果フロー、フィードバックループ、失敗モード。
 
-* [SUSTAINABLE_CIVILIZATION_MODEL.md](SUSTAINABLE_CIVILIZATION_MODEL.md)
+* [SUSTAINABLE_CIVILIZATION_MODEL.md](SUSTAINABLE_CIVILIZATION_MODEL.md)  
   砂漠再生システムが持続可能文明に寄与し得るかを検討する概念モデル。技術だけでは不十分であり、倫理、協力、長期統治が必要であることを扱う。
 
-* [sustainable_civilization_simulation.py](sustainable_civilization_simulation.py)
+* [sustainable_civilization_simulation.py](sustainable_civilization_simulation.py)  
   2026年から2100年までの生態回復、社会的叡智、文明持続性を仮想指標で比較するPython概念シミュレーション。
 
 ---
