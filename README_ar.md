@@ -802,3 +802,12 @@ python sustainable_civilization_simulation.py
 
 - [من أرصدة الكربون إلى أرصدة التبريد](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ar.md)  
   مقترح مفاهيمي يعيد صياغة أرصدة الكربون القائمة على التعويض بوصفها محاسبة دفترية، ويعرّف أرصدة التبريد كإطار استثماري لخفض الحمل الحراري القابل للقياس والتبريد الكوكبي.
+
+---
+
+## نماذج أعمال أرصدة التبريد ذات الصلة
+
+روابط عكسية إلى وثائق نماذج الأعمال في إطار أرصدة التبريد المرتبطة بنطاق هذا المستودع من حيث التنفيذ والتصميم المؤسسي.
+
+- [نموذج أعمال مدينة الهرم الدائرية في الصحراء](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/DESERT_CIRCULAR_PYRAMID_CITY_BUSINESS_MODEL_ar.md)
+- [نموذج تحويل فاقد الطعام والنفايات العضوية إلى دبال ضمن أرصدة التبريد](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/FOOD_LOSS_ORGANIC_WASTE_TO_HUMUS_COOLING_CREDIT_MODEL_ar.md)
