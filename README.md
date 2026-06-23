@@ -489,3 +489,11 @@ desert regeneration, desert greening, dryland restoration, organic matter circul
 ### Hashtags
 
 #DesertRegeneration #DesertGreening #DrylandRestoration #EarthRegeneration #NatureComplementaryScience #OrganicMatterCirculation #HumusFormation #HumusRecyclingSystem #HRS #DesertGreeningSupport #DGS #MicrobialRecovery #SoilRegeneration #SoilCarbon #CarbonFixation #CarbonSinks #WaterCirculation #ArtificialOasis #FoodProduction #StepwiseVegetationTransition #RegenerativeAgriculture #CircularEconomy #FoodWaste #OrganicWasteRecycling #ClimateChange #GlobalWarming #DirectPlanetaryCooling #SustainableCivilization #FutureCivilization #ArtificialWisdom
+
+
+---
+
+## Related Institutional Proposal: Carbon Credit to Cooling Credit
+
+- [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README.md)  
+  A conceptual proposal that reframes offset-based carbon credits as book-based accounting and defines Cooling Credits as an investment framework for physically measurable heat-load reduction and planetary cooling.
