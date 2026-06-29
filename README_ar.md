@@ -611,11 +611,11 @@ Alias / Handles: inchacomisho / inchacomusho
 
 ## الترخيص
 
-CC BY-SA 4.0
+CC BY 4.0
 
 يُنشر هذا النص، والإطار المفاهيمي، والمواد المرتبطة به بموجب رخصة:
 
-Creative Commons Attribution-ShareAlike 4.0 International License
+Creative Commons Attribution 4.0 International License
 
 تسمح هذه الرخصة بما يلي:
 

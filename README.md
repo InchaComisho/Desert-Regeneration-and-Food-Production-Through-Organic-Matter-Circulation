@@ -363,9 +363,9 @@ This concept and its related documents were developed through dialogue, structur
 
 ## License
 
-**CC BY-SA 4.0**
+**CC BY 4.0**
 
-This article, text, and conceptual framework are released under the **Creative Commons Attribution-ShareAlike 4.0 International License**.
+This article, text, and conceptual framework are released under the **Creative Commons Attribution 4.0 International License**.
 
 You are free to:
 

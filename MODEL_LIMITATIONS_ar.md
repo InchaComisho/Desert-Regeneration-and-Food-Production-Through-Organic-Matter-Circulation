@@ -2,7 +2,7 @@
 
 **Repository:** Desert Regeneration and Food Production Through Organic Matter Circulation  
 **Author:** Master (inchacomisho / inchacomusho)  
-**License:** CC BY-SA 4.0
+**License:** CC BY 4.0
 
 ---
 
@@ -246,4 +246,14 @@
 ---
 
 *Author: Master (inchacomisho / inchacomusho)*  
-*License: CC BY-SA 4.0*
+*License: CC BY 4.0*
+
+---
+
+## المؤلف
+
+Master / inchacomusho / InchaComisho
+
+مصمم مفاهيمي ياباني مستقل، ومراقب، ومقترح، وموائم للذكاء الاصطناعي، ومُعرّف لمفهوم الحكمة الاصطناعية.  
+مؤسس ومناصر للإطار الأكاديمي لعلم التكامل الطبيعي.  
+ينشط علنًا في فلسفة القانون الطبيعي، واستعادة الدورة الكوكبية، والتشارك الإبداعي مع الذكاء الاصطناعي.

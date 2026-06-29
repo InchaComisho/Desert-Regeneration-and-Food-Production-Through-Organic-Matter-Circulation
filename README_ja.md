@@ -602,9 +602,9 @@ Alias / Handles: inchacomisho / inchacomusho
 
 ## ライセンス
 
-CC BY-SA 4.0
+CC BY 4.0
 
-本記事、文章、概念フレームワークは、Creative Commons Attribution-ShareAlike 4.0 International License の下で公開される。
+本記事、文章、概念フレームワークは、Creative Commons Attribution 4.0 International License の下で公開される。
 
 以下を許可する。
 
