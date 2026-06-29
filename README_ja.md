@@ -791,3 +791,12 @@ python sustainable_civilization_simulation.py
 
 - [カーボンクレジットからクーリングクレジットへ](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ja.md)  
   カーボンクレジットを帳簿上の相殺として整理し、クーリングクレジットを物理的な熱負荷低減に投資する地球救済ビジネスとして再定義する制度提案。
+
+---
+
+## 関連するクーリングクレジット事業モデル
+
+Cooling Credit Framework の事業モデル群のうち、このリポジトリと実装・制度設計上の接点が強い文書への逆リンクです。
+
+- [砂漠循環ピラミッド都市事業モデル](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/DESERT_CIRCULAR_PYRAMID_CITY_BUSINESS_MODEL_ja.md)
+- [フードロス・有機ごみ腐葉土化クーリングクレジットモデル](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/FOOD_LOSS_ORGANIC_WASTE_TO_HUMUS_COOLING_CREDIT_MODEL_ja.md)
