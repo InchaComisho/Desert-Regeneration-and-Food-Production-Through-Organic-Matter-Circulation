@@ -1,5 +1,7 @@
 # 砂漠再生と有機物循環による食料生産
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## 腐葉土化・微生物再生・水循環・炭素固定・段階的植生遷移を統合する自然補完型文明モデル
 
 [English](README.md) | [日本語](README_ja.md) | [العربية](README_ar.md)

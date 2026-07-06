@@ -1,5 +1,7 @@
 # Desert Regeneration and Food Production Through Organic Matter Circulation
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## A Nature-Complementary Framework for Humus Formation, Microbial Recovery, Water Circulation, Carbon Fixation, and Stepwise Vegetation Transition
 
 [English](README.md) | [日本語](README_ja.md) | [العربية](README_ar.md)
