@@ -575,22 +575,12 @@ Master / inchacomusho / InchaComisho
 
 ---
 
-## المقال الأصلي
-
-المقال الياباني الأصلي:
-
-[砂漠再生から地球再生へ――有機物循環・腐葉土化・微生物再生・水循環・食料生産を統合する自然補完型文明モデル](https://note.com/inchacomusho/n/nbde84f343731)
-
 ---
 
 ## مقالات NOTE الأصلية
 
 المقالات التالية هي مصادر مفاهيمية يابانية مبكرة ساهمت في تكوين هذا المستودع.  
 ينبغي فهمها كمواد أصلية للفكرة، وليست كأدلة علمية محكمة.
-
-- [المفهوم الأولي: تخضير الصحراء، إنتاج الغذاء، النمو السكاني، قضايا اللاجئين، وإنشاء بيئات جديدة صالحة للسكن](https://note.com/inchacomusho/n/n0ce549cb6fa3)
-- [استكمال المفهوم الأولي حول تخضير الصحراء وإنتاج الغذاء](https://note.com/inchacomusho/n/n92ba2352cb26)
-- [تأملات حول الصحارى الرملية الخالصة مثل الصحراء الكبرى](https://note.com/inchacomusho/n/nd5e1f53816f4)
 
 ---
 
@@ -759,15 +749,12 @@ python sustainable_civilization_simulation.py
 
 * [From Abandoned Sugi Plantations to Regenerative Forest Assets](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README.md)
 
-* [放置杉林を負債から資産へ──果樹・山菜・キノコ・腐葉土で森を再生する方法](https://note.com/inchacomusho/n/nfa9e2b639c06)
-
 * [Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md)
 
 * [نظام المدينة والحضارة OS: إطار بنية تحتية دائرية للمدن المتكاملة مع الطبيعة](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ar.md)
 
 * [Circular City Concept](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README.md)
 * [日本語版 README：循環都市構想](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README_ja.md)
-* [NOTE記事：循環都市構想](https://note.com/inchacomusho/n/n734d7e7da6ce)
 
 ---
 
