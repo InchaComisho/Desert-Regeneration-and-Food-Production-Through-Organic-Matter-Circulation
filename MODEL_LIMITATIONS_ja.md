@@ -1,5 +1,7 @@
 # モデルの限界、リスク、および検証要件
 
+[English Version](MODEL_LIMITATIONS.md)
+
 **Repository:** Desert Regeneration and Food Production Through Organic Matter Circulation  
 **Author:** Master (inchacomisho / inchacomusho)  
 **License:** CC BY 4.0

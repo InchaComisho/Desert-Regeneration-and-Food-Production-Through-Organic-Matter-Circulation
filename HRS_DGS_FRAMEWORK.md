@@ -1,5 +1,7 @@
 # HRS, DGS, and Stepwise Food Transition Framework
 
+[日本語版はこちら / Japanese version](HRS_DGS_FRAMEWORK_ja.md)
+
 **Repository:** Desert Regeneration and Food Production Through Organic Matter Circulation  
 **Author:** Master (inchacomisho / inchacomusho)  
 **License:** CC BY 4.0

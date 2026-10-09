@@ -1,5 +1,7 @@
 # 持続可能文明モデル
 
+[English Version](SUSTAINABLE_CIVILIZATION_MODEL.md)
+
 **Repository:** Desert Regeneration and Food Production Through Organic Matter Circulation  
 **Associated simulation:** `sustainable_civilization_simulation.py`  
 **Author:** Master (inchacomisho / inchacomusho)  

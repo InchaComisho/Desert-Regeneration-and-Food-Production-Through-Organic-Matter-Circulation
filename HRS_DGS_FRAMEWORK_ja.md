@@ -1,5 +1,7 @@
 # HRS、DGS、および段階的食料遷移フレームワーク
 
+[English Version](HRS_DGS_FRAMEWORK.md)
+
 **Repository:** Desert Regeneration and Food Production Through Organic Matter Circulation  
 **Author:** Master (inchacomisho / inchacomusho)  
 **License:** CC BY 4.0

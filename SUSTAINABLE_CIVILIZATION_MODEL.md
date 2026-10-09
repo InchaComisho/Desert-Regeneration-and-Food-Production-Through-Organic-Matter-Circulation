@@ -1,5 +1,7 @@
 # Sustainable Civilization Model
 
+[日本語版はこちら / Japanese version](SUSTAINABLE_CIVILIZATION_MODEL_ja.md)
+
 **Repository:** Desert Regeneration and Food Production Through Organic Matter Circulation  
 **Associated simulation:** `sustainable_civilization_simulation.py`  
 **Author:** Master (inchacomisho / inchacomusho)  
