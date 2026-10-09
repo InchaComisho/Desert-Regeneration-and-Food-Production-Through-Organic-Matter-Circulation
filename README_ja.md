@@ -4,7 +4,7 @@
 
 ## 腐葉土化・微生物再生・水循環・炭素固定・段階的植生遷移を統合する自然補完型文明モデル
 
-[English](README_ja.md) | [日本語](README_ja.md) | [العربية](README_ar.md)
+[English](README.md) | [日本語](README_ja.md) | [العربية](README_ar.md)
 
 ---
 
@@ -573,7 +573,7 @@ DGSの目的は、いきなり砂漠を森に変えることではない。
 
 ## English Version
 
-[English README](README_ja.md)
+[English README](README.md)
 
 ---
 
