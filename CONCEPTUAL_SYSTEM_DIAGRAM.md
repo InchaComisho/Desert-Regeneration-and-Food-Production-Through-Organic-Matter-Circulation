@@ -1,5 +1,7 @@
 # Conceptual System Diagram
 
+[日本語版はこちら / Japanese version](CONCEPTUAL_SYSTEM_DIAGRAM_ja.md)
+
 ## Desert Regeneration and Food Production Through Organic Matter Circulation
 
 **Author:** Master (inchacomisho / inchacomusho)  

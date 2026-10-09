@@ -4,7 +4,7 @@
 
 ## 腐葉土化・微生物再生・水循環・炭素固定・段階的植生遷移を統合する自然補完型文明モデル
 
-[English](README.md) | [日本語](README_ja.md) | [العربية](README_ar.md)
+[English](README_ja.md) | [日本語](README_ja.md) | [العربية](README_ar.md)
 
 ---
 
@@ -573,7 +573,7 @@ DGSの目的は、いきなり砂漠を森に変えることではない。
 
 ## English Version
 
-[English README](README.md)
+[English README](README_ja.md)
 
 ---
 
@@ -624,22 +624,22 @@ CC BY 4.0
 
 英語版の補足文書は、該当する場合に主要な技術的参照元として残されている。日本語版およびアラビア語版は、読者が内容へアクセスしやすくするための翻訳または要約である。
 
-* [MODEL_LIMITATIONS.md](MODEL_LIMITATIONS.md)  
+* [MODEL_LIMITATIONS.md](MODEL_LIMITATIONS_ja.md)  
   限界、リスク、検証要件。
   * Japanese version: [MODEL_LIMITATIONS_ja.md](MODEL_LIMITATIONS_ja.md)
   * Arabic version: [MODEL_LIMITATIONS_ar.md](MODEL_LIMITATIONS_ar.md)
 
-* [HRS_DGS_FRAMEWORK.md](HRS_DGS_FRAMEWORK.md)  
+* [HRS_DGS_FRAMEWORK.md](HRS_DGS_FRAMEWORK_ja.md)  
   HRS、DGS、段階的食料遷移モデルの技術的フレームワーク。
   * Japanese version: [HRS_DGS_FRAMEWORK_ja.md](HRS_DGS_FRAMEWORK_ja.md)
   * Arabic version: [HRS_DGS_FRAMEWORK_ar.md](HRS_DGS_FRAMEWORK_ar.md)
 
-* [CONCEPTUAL_SYSTEM_DIAGRAM.md](CONCEPTUAL_SYSTEM_DIAGRAM.md)  
+* [CONCEPTUAL_SYSTEM_DIAGRAM.md](CONCEPTUAL_SYSTEM_DIAGRAM_ja.md)  
   システム構造、因果フロー、フィードバックループ、失敗モード。
   * Japanese summary: [CONCEPTUAL_SYSTEM_DIAGRAM_ja_summary.md](CONCEPTUAL_SYSTEM_DIAGRAM_ja_summary.md)
   * Arabic summary: [CONCEPTUAL_SYSTEM_DIAGRAM_ar_summary.md](CONCEPTUAL_SYSTEM_DIAGRAM_ar_summary.md)
 
-* [SUSTAINABLE_CIVILIZATION_MODEL.md](SUSTAINABLE_CIVILIZATION_MODEL.md)  
+* [SUSTAINABLE_CIVILIZATION_MODEL.md](SUSTAINABLE_CIVILIZATION_MODEL_ja.md)  
   砂漠再生システムが持続可能文明に寄与し得るかを検討する概念モデル。技術だけでは不十分であり、倫理、協力、長期統治が必要であることを扱う。
   * Japanese version: [SUSTAINABLE_CIVILIZATION_MODEL_ja.md](SUSTAINABLE_CIVILIZATION_MODEL_ja.md)
 
@@ -652,7 +652,7 @@ CC BY 4.0
 
 > ⚠️ すべての数値は、0.0から1.0の範囲で正規化された仮想指標である。
 > これは概念実証であり、科学的予測、政策提言、農業予測、気候予測ではない。
-> 詳細な説明と限界については [SUSTAINABLE_CIVILIZATION_MODEL.md](SUSTAINABLE_CIVILIZATION_MODEL.md) を参照。
+> 詳細な説明と限界については [SUSTAINABLE_CIVILIZATION_MODEL.md](SUSTAINABLE_CIVILIZATION_MODEL_ja.md) を参照。
 
 ### `sustainable_civilization_simulation.py`
 
